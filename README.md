@@ -1,0 +1,2 @@
+# dirbackup
+backup wordpress directory
